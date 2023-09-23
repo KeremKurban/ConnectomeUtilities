@@ -3,7 +3,10 @@
 Complex network representation and analysis layer
 
 [![DOI](https://zenodo.org/badge/641456590.svg)](https://zenodo.org/badge/latestdoi/641456590)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KeremKurban/ConnectomeUtilities/KeremKurban-binder)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/KeremKurban/ConnectomeUtilities/KeremKurban-binder
+ 
 ![ConnectomeUtilities](banner-ConnectomeUtilities.jpg?raw=true)
 
 # Table of Contents
